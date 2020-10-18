@@ -177,6 +177,7 @@ public class BatteryManager {
      * {@hide}
      */
     public static final String EXTRA_WARP_CHARGER = "warp_charger";
+    public static final String EXTRA_VOOC_CHARGER = "vooc_charger";
 
     // values for "status" field in the ACTION_BATTERY_CHANGED Intent
     public static final int BATTERY_STATUS_UNKNOWN = Constants.BATTERY_STATUS_UNKNOWN;
